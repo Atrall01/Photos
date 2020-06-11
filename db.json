@@ -1,14 +1,14 @@
 {
   "photo": {
     "id": 1,
-    "name": "typicode",
-    "url": "",
-    "thumbnailUrl": "",
-    "albom": {
-      "id": "",
-      "name": "",
-      "contactId": "",
-      "contactName": ""
+    "name": "Суслик и цветок",
+    "url": "https://images.app.goo.gl/xDkaiE8cUZMTvjuv8",
+    "thumbnailUrl": "https://images.app.goo.gl/xDkaiE8cUZMTvjuv8",
+    "album": {
+      "id": "4bca2efe-eb82-44a7-8935-0db843a6bd36",
+      "name": "Молодой фотограф",
+      "contactId": "f07e742a-8195-42c8-814b-95cc9e9befc3",
+      "contactName": "Фотограф Вася"
     }
   }
 }
