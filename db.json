@@ -1,5 +1,14 @@
 {
   "photo": {
-    "name": "typicode"
+    "id": 1,
+    "name": "typicode",
+    "url": "",
+    "thumbnailUrl": "",
+    "albom": {
+      "id": "",
+      "name": "",
+      "contactId": "",
+      "contactName": ""
+    }
   }
 }
