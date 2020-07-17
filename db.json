@@ -1,4 +1,6 @@
-          "paymentMethod": {
-            "id": 1,
-            "name": "Онлайн"
+{       
+"paymentMethod": {
+          "id": 1,
+          "name": "Онлайн"
           }
+}
