@@ -1,6 +1,20 @@
 {
-  "paymentMethod": {
-    "id": 1,
-    "name": "Онлайн"
-  }
+  "payments": [
+    {
+      "paymentMethod": {
+        "id": 1,
+        "name": "Онлайн"
+      },
+      "sum": 783.49,
+      "payedAt": "2019-04-30 10:15:30",
+      "fiscatedAt": "2019-04-30 10:15:30",
+      "rrn": "string",
+      "refNumber": "string",
+      "gissTillId": "string",
+      "fiscalNum": "string",
+      "check": "string",
+      "checkNum": "string",
+      "iss400": "string"
+    }
+  ]
 }
